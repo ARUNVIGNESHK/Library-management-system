@@ -82,7 +82,7 @@ require('dbconn.php');
 	</div>
 
 	<div class="footer w3layouts agileits">
-		<p> &copy; 2018 Library Member Login. All Rights Reserved </a></p>
+		<p> &copy; 2024 Library Member Login. All Rights Reserved </a></p>
 		
 	</div>
 
